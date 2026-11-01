@@ -120,7 +120,9 @@ Please only use these commands for working stand-alone on your own computer with
     $ make clustertasks
     ```
 
-You can now perform Tekton development locally, just like in the Cloud IDE lab environment.
+You can now perform Tekton development locally, just like in the Cloud IDE lab environmen
+
+![Build Status](https://github.com/chengaaaan/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
 
 ## Author
 
